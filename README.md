@@ -3,7 +3,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvilloldo/)](https://www.linkedin.com/in/gabrielvilloldo/) [![es](https://img.shields.io/badge/Español-yellow.svg)](https://github.com/gvillo/gvillo/blob/main/README.es.md)  ![](https://komarev.com/ghpvc/?username=gvillo&color=blue)
 
-## 🔧 Tech Stack
+I'm a versatile Software Engineer with 15+ years of experience. Adept at identifying opportunities for improvement, driving projects forward with focus on prioritization and efficient execution.
+
+## 🛠️ Tech Stack
 
 ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -52,7 +54,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white) ![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff) ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
 
-## Stats
+## 📊 Stats
 
 <picture>
   <source

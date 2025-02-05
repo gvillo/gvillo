@@ -3,7 +3,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvilloldo/)](https://www.linkedin.com/in/gabrielvilloldo/) [![en](https://img.shields.io/badge/English-yellow.svg)](https://github.com/gvillo/gvillo/blob/main/README.md) ![](https://komarev.com/ghpvc/?username=gvillo&color=blue)
 
-## 🔧 Tech Stack
+Soy un Ingeniero de Software versátil con más de 15 años de experiencia. Experto en identificar oportunidades de mejora, impulsando proyectos con un enfoque en priorizar y ejecutar eficientemente.
+
+## 🛠️ Tech Stack
 
 ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -55,5 +57,28 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white) ![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff) ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
 
-## Estadisticas
-![Top Langs](https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=transparent&langs_count=8&count_private=true&locale=es)
+## 📊 Estadisticas
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=dark&langs_count=8&count_private=true&locale=es"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=default&langs_count=8&count_private=true&locale=es"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=default&langs_count=8&count_private=true&locale=es" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-rouge-six-99.vercel.app/api?username=gvillo&theme=dark&rank_icon=github&show_icons=true&locale=es"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-rouge-six-99.vercel.app/api?username=gvillo&theme=default&rank_icon=github&show_icons=true&locale=es"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-rouge-six-99.vercel.app/api?username=gvillo&theme=default&rank_icon=github&show_icons=true&locale=es" />
+</picture>
