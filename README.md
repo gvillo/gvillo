@@ -54,7 +54,26 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=dark&langs_count=8&count_private=true#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=default&langs_count=8&count_private=true#gh-light-mode-only)
-![Gabriel Villoldo's GitHub stats](https://github-readme-stats-rouge-six-99.vercel.app/api?username=gvillo&theme=dark&rank_icon=github&show_icons=true#gh-dark-mode-only)
-![Gabriel Villoldo's GitHub stats](https://github-readme-stats-rouge-six-99.vercel.app/api?username=gvillo&theme=default&&rank_icon=github&show_icons=true#gh-light-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=dark&langs_count=8&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=default&langs_count=8&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=default&langs_count=8&count_private=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-rouge-six-99.vercel.app/api?username=gvillo&theme=dark&rank_icon=github&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-rouge-six-99.vercel.app/api?username=gvillo&theme=default&rank_icon=github&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-rouge-six-99.vercel.app/api?username=gvillo&theme=default&rank_icon=github&show_icons=true" />
+</picture>
