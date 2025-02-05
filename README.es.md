@@ -1,5 +1,5 @@
 ## ¡Hola! soy Gabriel Villoldo 🤝
-[![Staff Software Engineer](https://readme-typing-svg.demolab.com/?lines=Staff+Software+Engineer;Open-Source+Contributor;&height=20&vCenter=true)](https://git.io/typing-svg)
+![Staff Software Engineer](https://readme-typing-svg.demolab.com/?lines=Staff+Software+Engineer;Open-Source+Contributor;Home+Automation+Enthusiast&height=20&vCenter=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvilloldo/)](https://www.linkedin.com/in/gabrielvilloldo/) [![en](https://img.shields.io/badge/English-yellow.svg)](https://github.com/gvillo/gvillo/blob/main/README.md) ![](https://komarev.com/ghpvc/?username=gvillo&color=blue)
 
@@ -19,8 +19,9 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![EF](https://img.shields.io/badge/EF-512BD4?logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=.net&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?logo=.net&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -40,16 +41,19 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-14B3C3.svg?logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![NuGet](https://img.shields.io/badge/NuGet-004880.svg?logo=nuget&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
+![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)
 ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0089D6?logo=msazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-1090D1?style=flat&logoColor=white&logo=docker)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white) ![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff) ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
 
 ## Estadisticas
-[![Top Langs](https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=transparent&langs_count=8&count_private=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=transparent&langs_count=8&count_private=true&locale=es)
