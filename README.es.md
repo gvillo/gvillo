@@ -1,5 +1,5 @@
 ## ¡Hola! soy Gabriel Villoldo 🤝
-![Staff Software Engineer](https://readme-typing-svg.demolab.com/?lines=Staff+Software+Engineer;Open-Source+Contributor;Home+Automation+Enthusiast&height=20&vCenter=true)
+![Senior Software Engineer](https://readme-typing-svg.demolab.com/?lines=Senior+Software+Engineer;Open-Source+Contributor;Home+Automation+Enthusiast&height=20&vCenter=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvilloldo/)](https://www.linkedin.com/in/gabrielvilloldo/) [![en](https://img.shields.io/badge/English-yellow.svg)](https://github.com/gvillo/gvillo/blob/main/README.md) ![](https://komarev.com/ghpvc/?username=gvillo&color=blue)
 
