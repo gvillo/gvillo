@@ -39,6 +39,8 @@ Soy un Ingeniero de Software versátil con más de 15 años de experiencia. Expe
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white)
