@@ -45,7 +45,10 @@ I'm a versatile Software Engineer with 15+ years of experience. Adept at identif
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-14B3C3.svg?logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![NuGet](https://img.shields.io/badge/NuGet-004880.svg?logo=nuget&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
+![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)
 ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
